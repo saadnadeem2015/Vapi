@@ -30,7 +30,7 @@ const Home = () => {
   return (
     <div style={{ padding: "2rem" }}>
       <h1>Talk to Riley, the Assistant 🤖</h1>
-      <button onClick={startAgent}>Start Voice</button>
+      <button onClick={startAgent}>Start Voicessss</button>
     </div>
   );
 };
